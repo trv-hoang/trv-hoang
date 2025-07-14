@@ -21,7 +21,7 @@ I love thinking in systems, breaking down complex problems, and building practic
 ---
 
 ## 📫 How to find Me
-<p align="left"> <a href="[https://linkedin.com/in/yourusername](https://linkedin.com/in/trvhoag)" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" /> </a> &nbsp;&nbsp; <a href="mailto:viethoang100900@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30" /> </a> </p>
+<p align="left"> <a href="https://linkedin.com/in/trvhoag" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" /> </a> &nbsp;&nbsp; <a href="mailto:viethoang100900@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30" /> </a> </p>
 
 ---
 
