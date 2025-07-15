@@ -7,8 +7,8 @@ Hi, I'm Hoàng, an INTJ-T personality – the Architect type:
 I love thinking in systems, breaking down complex problems, and building practical solutions with a long-term mindset.
 
 **🎓 Currently studying Information Technology at University of Information Technology (UIT) - Ho Chi Minh City**  
-**🔭 Focus:** Software Engineering, DevOps, Cloud, and System Design  
-**🧠 Learning path:** AWS, Docker, Kubernetes, CI/CD, AI Agents  
+**🔭 Focus:** Software Engineering, DevOps   
+**🧠 Learning path:** AWS, Docker     
 **🎯 Mindset:** I always want to understand the root cause, not just patch the symptoms  
 **😎 Working style:** Independent thinker but proactive in collaboration when needed    
 
