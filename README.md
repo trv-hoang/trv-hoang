@@ -5,8 +5,8 @@
 ##  About Me
 Hi, I'm Hoàng, an INTJ-T personality
 
-** Currently studying Information Technology at University of Information Technology (UIT) - Ho Chi Minh City**  
-** Love:** DevOps, Blockchain   
+Currently studying Information Technology at University of Information Technology (UIT) - Ho Chi Minh City
+Love: DevOps, Blockchain   
 
 ---
 
